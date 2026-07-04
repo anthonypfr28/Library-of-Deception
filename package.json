@@ -1,0 +1,11 @@
+{
+  "name": "library-of-deception",
+  "version": "1.0.0",
+  "description": "A GitHub-style archive browser for the Library of Deception's document collection.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "reindex": "python3 output.py"
+  },
+  "dependencies": {}
+}
